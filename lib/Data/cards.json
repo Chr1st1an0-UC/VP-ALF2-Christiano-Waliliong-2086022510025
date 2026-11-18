@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Emberwing Dragon",
+    "image": "lib/assets/cards/emberwing.png",
+    "owner": "Alya"
+  },
+  {
+    "name": "Moonlit Guardian",
+    "image": "lib/assets/cards/moonlit_guardian.png",
+    "owner": "Raka"
+  },
+  {
+    "name": "Verdant Sage",
+    "image": "lib/assets/cards/verdant_sage.png",
+    "owner": "Nadia"
+  },
+  {
+    "name": "Stormcaller",
+    "image": "lib/assets/cards/stormcaller.png",
+    "owner": "Bima"
+  },
+  {
+    "name": "Abyssal Leviathan",
+    "image": "lib/assets/cards/abyssal_leviathan.png",
+    "owner": "Chris"
+  },
+  {
+    "name": "Sunforged Knight",
+    "image": "lib/assets/cards/sunforged_knight.png",
+    "owner": "Dimas"
+  }
+]
